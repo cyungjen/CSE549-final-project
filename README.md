@@ -7,3 +7,5 @@
 
 ### Modify this file to fetch INT and FP instructions in the same time
 /homes/iws/cyungjen/bsg_bladerunner/bsg_manycore/v/vanilla_bean/icache.sv
+
+![Dual Issue Vanilla Core]([https://example.com/image.png](https://github.com/cyungjen/CSE549-final-project/blob/main/Dual%20Issue%20Vanilla%20Core.pdf))
